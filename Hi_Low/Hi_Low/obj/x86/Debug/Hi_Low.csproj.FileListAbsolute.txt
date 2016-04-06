@@ -1,0 +1,5 @@
+c:\users\agk.domain\documents\visual studio 2010\Projects\Hi_Low\Hi_Low\bin\Debug\Hi_Low.exe
+c:\users\agk.domain\documents\visual studio 2010\Projects\Hi_Low\Hi_Low\bin\Debug\Hi_Low.pdb
+c:\users\agk.domain\documents\visual studio 2010\Projects\Hi_Low\Hi_Low\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\agk.domain\documents\visual studio 2010\Projects\Hi_Low\Hi_Low\obj\x86\Debug\Hi_Low.exe
+c:\users\agk.domain\documents\visual studio 2010\Projects\Hi_Low\Hi_Low\obj\x86\Debug\Hi_Low.pdb

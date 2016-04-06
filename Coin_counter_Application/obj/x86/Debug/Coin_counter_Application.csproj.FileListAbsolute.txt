@@ -1,0 +1,5 @@
+C:\Users\agk.DOMAIN\Documents\Visual Studio 2010\Projects\Coin_counter_Application\Coin_counter_Application\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\agk.DOMAIN\Documents\Visual Studio 2010\Projects\Coin_counter_Application\Coin_counter_Application\bin\Debug\Coin_counter_Application.exe
+C:\Users\agk.DOMAIN\Documents\Visual Studio 2010\Projects\Coin_counter_Application\Coin_counter_Application\bin\Debug\Coin_counter_Application.pdb
+C:\Users\agk.DOMAIN\Documents\Visual Studio 2010\Projects\Coin_counter_Application\Coin_counter_Application\obj\x86\Debug\Coin_counter_Application.exe
+C:\Users\agk.DOMAIN\Documents\Visual Studio 2010\Projects\Coin_counter_Application\Coin_counter_Application\obj\x86\Debug\Coin_counter_Application.pdb
